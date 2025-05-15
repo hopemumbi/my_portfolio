@@ -42,7 +42,7 @@ I hold a degree in Statistics and specialize in **data cleaning, analysis, visua
 
 ## 📬 Contact Me
 - Email: mumbimak98@gmail.com
-- LinkedIn: [linkedin.com/in/hope-mumbi-makanga](https://linkedin.com/in/hope-mumbi-makanga)
+- LinkedIn: [Hope Mumbi](https://linkedin.com/in/hope-mumbi-makanga)
 
 ---
 
