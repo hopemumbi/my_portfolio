@@ -1,5 +1,4 @@
 ---
-title: "Hope Mumbi Makanga | Data Analyst Portfolio"
 author: "Hope Mumbi Makanga"
 description: "Welcome to my professional portfolio showcasing data analysis projects using Excel, SQL, Power BI, R, and Python."
 ---
