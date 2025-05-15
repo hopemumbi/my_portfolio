@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Hope Mumbi Makanga"
 author: "Hope Mumbi Makanga"
 description: "Welcome to my portfolio where data meets storytelling. Explore my projects, resume, and journey as a data analyst."
 ---
