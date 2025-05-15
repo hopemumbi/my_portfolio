@@ -4,7 +4,7 @@ author: "Hope Mumbi Makanga"
 description: "Welcome to my portfolio where data meets storytelling. Explore my projects, resume, and journey as a data analyst."
 ---
 
-**Data Analyst |  Turning Data Into Stories, and Stories Into Impact.
+**Data Analyst |  Turning Data Into Stories, and Stories Into Impact.**
 
 ---
 
