@@ -3,7 +3,7 @@ title: "My Data Portfolio"
 author: "Hope Mumbi Makanga"
 description: "Welcome to my portfolio where data meets storytelling. Explore my projects, resume, and journey as a data analyst."
 ---
-<img src="./banner.jpg" alt="Data, Hope, and Storytelling Banner" style="width:100%; border-radius: 15px;"/>
+
 ## ✨ My Journey
 
 > There are more mountains than valleys.  
