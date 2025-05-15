@@ -4,7 +4,11 @@ author: "Hope Mumbi Makanga"
 description: "Welcome to my portfolio where data meets storytelling. Explore my projects, resume, and journey as a data analyst."
 ---
 
-## ✨ A Poem by ChatGpt
+**Data Analyst |  Turning Data Into Stories, and Stories Into Impact.
+
+---
+
+✨ A Poem
 
 > In a world of data, I seek stories.  
 > In chaos, I search for patterns.  
@@ -20,9 +24,6 @@ I hold a degree in Statistics and specialize in **data cleaning, analysis, visua
 - Power BI
 - R
 - Python (Pandas, Matplotlib, Seaborn)
-
-
-I am passionate about turning data into stories, and stories into impact.
 
 ---
 
@@ -41,7 +42,7 @@ I am passionate about turning data into stories, and stories into impact.
 
 ## 📬 Contact Me
 - Email: mumbimak98@gmail.com
-- LinkedIn: [linkedin.com/in/hope-mumbi-makanga](https://www.linkedin.com/in/hope-mumbi-makanga)
+- LinkedIn: [linkedin.com/in/hope-mumbi-makanga](https://linkedin.com/in/hope-mumbi-makanga)
 
 ---
 
