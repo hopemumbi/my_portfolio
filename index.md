@@ -8,7 +8,7 @@ description: "Welcome to my portfolio where data meets storytelling. Explore my 
 
 ---
 
-✨ A Poem
+## A Poem
 
 > In a world of data, I seek stories.  
 > In chaos, I search for patterns.  
@@ -16,7 +16,7 @@ description: "Welcome to my portfolio where data meets storytelling. Explore my 
 
 ---
 
-## 💼 About Me
+## About Me
 
 I hold a degree in Statistics and specialize in **data cleaning, analysis, visualization, and storytelling** using:
 - Excel
@@ -27,7 +27,7 @@ I hold a degree in Statistics and specialize in **data cleaning, analysis, visua
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **World Layoffs Project with SQL**  
   *An interactive dashboard revealing sales trends and performance insights.*  
@@ -35,12 +35,12 @@ I hold a degree in Statistics and specialize in **data cleaning, analysis, visua
 
 ---
 
-## 📄 Resume
+## Resume
 [Download my resume](./HopeMumbiMakanga_Resume.pdf)
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 - Email: mumbimak98@gmail.com
 - LinkedIn: [Hope Mumbi](https://linkedin.com/in/hope-mumbi-makanga)
 
