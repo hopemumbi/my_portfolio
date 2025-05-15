@@ -26,7 +26,7 @@ I hold a degree in Statistics and am passionate about exploring data to solve re
 ## Contact
 Feel free to reach out!
 - Email: mumbimak98@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/hope-mumbi-makanga)
+- LinkedIn: [Hope Mumbi](www.linkedin.com/in/hope-mumbi-makanga)
 
 ---
 
