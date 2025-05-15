@@ -1,23 +1,18 @@
 ---
-title: "My Portfolio"
+title: "My Data Portfolio"
 author: "Hope Mumbi Makanga"
 description: "Welcome to my portfolio where data meets storytelling. Explore my projects, resume, and journey as a data analyst."
 ---
-
-  
-**Turning data into stories, and stories into impact.**
-
----
-
+<img src="./banner.jpg" alt="Data, Hope, and Storytelling Banner" style="width:100%; border-radius: 15px;"/>
 ## ✨ My Journey
 
 > There are more mountains than valleys.  
 > More storms than calm.  
 > Yet I keep going—Hopeful.  
 
-In a world of data, I seek stories.  
-In chaos, I search for patterns.  
-In noise, I listen for truth.
+> In a world of data, I seek stories.  
+> In chaos, I search for patterns.  
+> In noise, I listen for truth.
 
 ---
 
