@@ -4,11 +4,7 @@ author: "Hope Mumbi Makanga"
 description: "Welcome to my portfolio where data meets storytelling. Explore my projects, resume, and journey as a data analyst."
 ---
 
-## ✨ My Journey
-
-> There are more mountains than valleys.  
-> More storms than calm.  
-> Yet I keep going—Hopeful.  
+## ✨ A Poem by ChatGpt
 
 > In a world of data, I seek stories.  
 > In chaos, I search for patterns.  
@@ -19,11 +15,14 @@ description: "Welcome to my portfolio where data meets storytelling. Explore my 
 ## 💼 About Me
 
 I hold a degree in Statistics and specialize in **data cleaning, analysis, visualization, and storytelling** using:
-- Excel, SQL, Power BI
-- R and Python (Pandas, Matplotlib, Seaborn)
-- Data visualization & dashboards
+- Excel
+- SQL
+- Power BI
+- R
+- Python (Pandas, Matplotlib, Seaborn)
 
-I am passionate about transforming complex data into insights that drive decisions and inspire action.
+
+I am passionate about turning data into stories, and stories into impact.
 
 ---
 
